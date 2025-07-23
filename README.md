@@ -46,4 +46,12 @@ All datasets were cleaned, normalized, and imported into a MySQL database.
 
 ---
 
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0ea2a360-3298-4f24-a6a8-f98b944d91d9" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/74c3507d-e2b6-41ea-8837-cffc280fb1ea" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7952a0fc-1dba-4bb3-aab2-9599fb6802f0" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a37f7cac-0471-4c03-9150-0b18009fd5f8" />
+
+
+
+
 
